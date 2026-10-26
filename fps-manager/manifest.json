@@ -1,0 +1,51 @@
+{
+    "files": {
+        "LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
+        "README.md": "dfe4c89d44c41a195606c74eadd9d2746c78922b1c9e435f3d1fdd8ebb887dcc",
+        "data/migrationData.js": "acdde3e0b291f6e8cdf3e010c16b76210219fbca30b994813848a1e72b2b02f7",
+        "data/protoData.json": "9b0a18ccded5c749b9f524d840c87c80730663d47383becec6c2837f85bd210d",
+        "data/staticData.json": "f72f2d092bb0c678b5ca256d341ba2ddbd48d02a6b238d1a09bfb38760cc55e6",
+        "fpsManager.js": "0b473324114772a8738f3565712158491fc7f651efdd66585a42a845064af1e6",
+        "lib/helpers/enums.js": "5443b36f9eb3496568c2b640a1384ccc334572c22fdda48b8832fb3b5ef88d44",
+        "lib/helpers/templates115.js": "2ba3dd04eb0cb2b83be3f6979aae00f7b656a18b2faf15309fb46495c785721b",
+        "lib/helpers/utils.js": "049e23959ad9af4ebb22c41b082f373c5edeb3af324d19fcbf24e3c55d58981d",
+        "lib/management/cmd.js": "5811c9ef58998636657802ce896d7277725e34d64e3b026d415e89030cb46dcb",
+        "lib/unitFps.js": "4d93afe21380db5f370f70f04838048b3edf7329be110862ef9245a15ad9ade1",
+        "lib/unitLog.js": "18f79233515b769bcbece734767c428e3e71940f7bb7dc13018b27cc2f84c2d4",
+        "lib/unitProto.js": "5ea555c7619beda7c0dd5a68c61d922ffc131cbb00cd33af5e24ad8d1adc6f49",
+        "lib/unitState.js": "a1c483487ab389772a9188a8a8fd6e505baa71e16f1554493a8a0fb54e032521",
+        "lib/unitTracker.js": "0c74387cd8e97a309807bbd33b4812098e5e6aefc3fec4521e7fbdf4633da6e1",
+        "module.json": "c3777104a6ea5c216106aa18aa1504003d1c0672b59312b2eaf68145c7f2b1af",
+        "node_modules/rfdc/LICENSE": "1a17c733e7728fa656e3c4234d2ce4d2fe9e04111257c5bdc39bb24b16bdf684",
+        "node_modules/rfdc/default.js": "14590044a4ae4321bf6a58d734c5c6b164bda4bf8b454c167f4d60416736ba0f",
+        "node_modules/rfdc/index.d.ts": "4ca07df921e5ad71fa4642a3a19a30affaf0e6b70e9bd3e363e99827eb11bb9e",
+        "node_modules/rfdc/index.js": "a4e7bf3124d83a008c2eb0a0a968abcf12484e1950864a38ee0c96940b61e7df",
+        "node_modules/rfdc/index.test-d.ts": "ba2b0cfe073bc764065d715513bfed6a7a29fb478f71c3c98243662263778013",
+        "node_modules/rfdc/package.json": "40b9367102776aa89a8f3f4720b18db8ff18ac3289d4f203af7e51831d3ba9ea",
+        "node_modules/rfdc/readme.md": "21ed38bca63388d01773d8dc71db3709ed965dbee6dd7d3d7034f4ef85b17c68",
+        "node_modules/rfdc/test/index.js": "c23895e1f34d2c5fdf52aff19563e633629877c536c67661dd46e81bac8ac396",
+        "node_modules/string-similarity/LICENSE": "464d7fb08f1247493d7d38196d2e119829cfc3a75de7e5637a04627f58ffbd13",
+        "node_modules/string-similarity/README.md": "b21aed13c21c628b4d8584b3c4e45d5c606467490357c8c5371b125d8351a2fa",
+        "node_modules/string-similarity/package.json": "d3f539869bc7e736a4e553e22c89d0145eb3cd716c0be4dca8171c6ed47f2264",
+        "node_modules/string-similarity/src/index.js": "cf37086af08c93384dbacdab062a855ab301a8251e818102fb4ac4ae776560d6",
+        "node_modules/string-similarity/umd/string-similarity.min.js": "76ba6e1015ad4280ea7d698f130cebe91bb840c6a74278d00ad1be5f13592066",
+        "package-lock.json": "2bed6ac3ba0efb7a660f473b46a2727b1993f2d1964e1eb219b6dad9ed44c8ff",
+        "package.json": "ee12c11a0a8b4631a6244dc037904cd261aa89f712ac86466f45286b79eaa65b",
+        "settings/presets/common.json": {
+            "overwrite": false,
+            "hash": "033e954d6e752dc19c39268ef44d7d7ed3bfebb6ced5acb581f4f9f7a3800515"
+        },
+        "settings/presets/elementalist.json": {
+            "overwrite": false,
+            "hash": "adf7255c517b1d96f463fbab2c03f6391885a0d9f1232e49afec8f8da45f8cee"
+        },
+        "settings/presets/priest.json": {
+            "overwrite": false,
+            "hash": "adf7255c517b1d96f463fbab2c03f6391885a0d9f1232e49afec8f8da45f8cee"
+        },
+        "settings/settings.json": {
+            "overwrite": false,
+            "hash": "d37b80432709ca610e61e0aae99649a2b9e3dbae28f03f24ed01d0728c5ef47c"
+        }
+    }
+}

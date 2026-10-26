@@ -1,0 +1,17 @@
+{
+    "files": {
+        "aeros.json": "5d2826e0ab713a5278a8297206352b6aa1e8a525a36eba930119a5657a84224c",
+        "comments.json": "a04c4212eb745d401db76b85a04eb77f36dd13f04812a8021d3e9102d5233941",
+        "config.json": {
+            "overwrite": false,
+            "hash": "20ad93dc8c0b032e374899418deb4c294cc53fca983c8529b78a27e313c89900"
+        },
+        "index.js": "94ee57e55bf0496250a52ad31c69a75bb0faef33ce8494f2adb8af73f54f8a36",
+        "module.json": "effcf0da27cc7d86aaa20a92f1b033e0a39b5c5184d9ab94093e4717f9e95f10",
+        "presets.json": {
+            "overwrite": false,
+            "hash": "a18b0fc9d904fa7435364547b8139f14e88d32f040f36938b9c993ef813ff572"
+        },
+        "readme.md": "e8b787387cd58d4b5fb2fbcf83112dd94af3fe736150a4936d4387c271c2c0a3"
+    }
+}

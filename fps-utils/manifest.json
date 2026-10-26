@@ -1,0 +1,14 @@
+{
+    "files": {
+        "README.md": "f5c50ef82e8ba86477c3f97f92bf5e8b466b6742e84297b72d3f357f02ad26cb",
+        "lib/data/abnormalities.json": "54727de2123584eb0ff38ffca5e86601e3faf05e8dc3379c9a0fd6e5ede1ca0c",
+        "lib/data/miscData.json": "7d71d166aaa8bd39f40d9ddd8cbbccea6af7d8facae42b7d77046f2ea8cd143b",
+        "lib/data/npcData.json": "bcd1876e4266f71299a298221b2594e45bf87f143f276a62c60dd8a35b75acd7",
+        "lib/data/skillString.json": "8668b91e8165287eb43935cf9d2d85ffa6f1b6873d452857d8138a720d862fa9",
+        "lib/data/userSpawns.json": "e82a593b3e5aa970542d8330dfe690049abad98691e8b90210f46cdc281b17a3",
+        "lib/index.js": "8eb6daae4bdb7ed30ccf1d9977d983aeeeda746b8a211d444d495be33814e914",
+        "lib/setting_migration.js": "1821fbb5ed37672bd9a8daa54f8ab392e35aa6c38b1602c560865b3bf6a7c6a2",
+        "module.json": "24e3b9a4caa50d651c4554be433405a119c6339ed8dfcca59e741db15384c073",
+        "package.json": "05c87cd1ccd2c23ba209b7a58d7fe10c5ed04e52c6fbecac8c3b0f368eeb7742"
+    }
+}

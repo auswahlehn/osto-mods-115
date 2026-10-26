@@ -1,0 +1,9 @@
+{
+    "files": {
+        "LICENSE": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "README.md": "02fbf9d55cbd1fbc0d9fff10977d40b411e3f0357c45e3fd2ed5054dcde20bd0",
+        "index.js": "c0c9e8b9adf3b7295e4cc6cd0dfb0699e69c5bd3fb0e19e5323227a35ea4078a",
+        "module.json": "5f6fba87d379dee9482770e599d4fa76a04c6abfdf1733a4ec4cd8421845a5e0",
+        "setting_migration.js": "cf4eccb45949375168c1eaa506ecfb68737657a0c3460c61a58e295608157088"
+    }
+}

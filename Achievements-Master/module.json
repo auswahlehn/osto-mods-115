@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Achievements-Master",
+	"version": "115.1",
+	"author": "Owyn",
+	"description": "Tracks achievements progress",
+	"options": {
+		"niceName": "A",
+		"guiName": "Achievements Master"
+	},
+	"servers": ["https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/Achievements-Master/"],
+	"supportUrl": "https://github.com/Owyn/Achievements/issues"
+}

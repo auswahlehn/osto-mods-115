@@ -1,0 +1,17 @@
+{
+    "name": "fps-manager",
+    "options": {
+        "cliName": "FPM",
+        "guiName": "FPS Manager",
+        "settingsVersion": 1,
+        "settingsFile": "./settings/settings.json",
+        "settingsMigrator": "./data/migrationData.js"
+    },
+    "author": "SaltyMonkey",
+    "description": "FPS Manager is modern and extremely customizable module for Tera Toolbox which can help to solve annoyance by some ingame messages and fps drops.",
+    "protocol": "115.02 (387463)",
+    "port115": "fps-manager (tera-classic-mods d9c723b) ported to the 115 toolbox: protoData.json has a 115 column; see PATCHES.md",
+    "servers": [
+        "https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/fps-manager/"
+    ]
+}

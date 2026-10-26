@@ -1,0 +1,18 @@
+{
+    "name": "party-deaths-notifier-classic",
+    "options": {
+        "cliName": "PDN",
+        "guiName": "Party Deaths Notifier (Classic)",
+        "settingsVersion": 1,
+        "settingsFile": "./settings/settings.json",
+        "settingsMigrator": "./lib/migration.js"
+    },
+    "author": "SaltyMonkey",
+    "description": "Simple TERA Toolbox module to show beams at dead party members position.",
+    "supportUrl": "https://github.com/tera-classic-mods/party-deaths-notifier-classic/issues",
+    "protocol": "115.02 (387463)",
+    "port115": "party-deaths-notifier-classic (tera-classic-mods de28cb6) on the 115 toolbox; code unchanged, see PATCHES.md",
+    "servers": [
+        "https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/party-deaths-notifier-classic/"
+    ]
+}

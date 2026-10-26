@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": false,
+    "servers": ["https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/unmount-fix/"],
+    "supportUrl": "https://github.com/Mister-Kay/unmount-fix/issues",
+    "name": "unmount-fix",
+    "author": "Mister-Kay",
+    "description": "Fix accidental dismounting immediately after mounting."
+}

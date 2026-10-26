@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "data": {
+        "enabled": true,
+        "classBasedBeams": true,
+        "beamsStyle": {
+            "tank": 45411,
+            "healer": 45411,
+            "default": 45411
+        }
+    }
+}

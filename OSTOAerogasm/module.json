@@ -1,0 +1,13 @@
+{
+    "name": "OSTOAerogasm",
+    "author": "NMods & Laxus",
+    "description": "Modified Aerogasm for Old School Tera Online.",
+    "protocol": "115.02 (387463)",
+    "port115": "OSTO Aerogasm (lightryuzaki/ostoweather 59f3d51) ported to the 115 toolbox; see PATCHES.md",
+    "conflicts": [
+        "dynamic-day"
+    ],
+    "servers": [
+        "https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/OSTOAerogasm/"
+    ]
+}

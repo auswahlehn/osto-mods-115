@@ -1,0 +1,14 @@
+{
+    "name": "generic-box-opener-item-user",
+    "author": "Owyn",
+    "description": "Mass-Opens boxes",
+    "options": {
+        "cliName": "Box",
+        "guiName": "Generic Box Opener & Item user"
+    },
+    "protocol": "115.02 (387463)",
+    "port115": "generic-box-opener-item-user (tera-private-mods c1fce9c) on the 115 toolbox; see PATCHES.md",
+    "servers": [
+        "https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/generic-box-opener-item-user/"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "files": {
+        "LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
+        "README.md": "a3d667e8b78638210a94a28fb2f8739a14b54009b4f0920ff7d0534b00fdbb35",
+        "lib/deathsNotifier.js": "09513594838c98e121ea7821caffaf4b68b73d4ffceb2b993924ca7fe868bae2",
+        "lib/migration.js": "cbe0435290bc51cdf4c59d154e0be6e6581c671330d47d4053b4086a4abeaf49",
+        "module.json": "55f830dd299731f79ddf481b8d5988c50345dffbf8aa7197f1ddcc76d2390028",
+        "package.json": "45d9fbfbdf103cab799230d2a0d7192c530ecaa1b758cbf98a3bc329944538e8",
+        "settings/settings.json": {
+            "overwrite": false,
+            "hash": "681aeabb9f2d59c1a159296a905020ed8ec4f72d6470ca41475fd468adf0309d"
+        }
+    }
+}
