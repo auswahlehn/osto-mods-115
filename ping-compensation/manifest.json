@@ -1,0 +1,14 @@
+{
+    "files": {
+        "README-115.md": "060c7abbb65b2e1477d519c0503b8e6b7e3e3a51195aeed201bfdc314187f338",
+        "README.md": "55bab8013623be2e0b385f2592d6abeb3ed70ac482865e88fde6d61f7cf219c0",
+        "abnormals.json": "2bf55385f6d7c5684368908484073fc562afa83fcd1a81056e4320a2ac2c3956",
+        "config.json": {
+            "overwrite": false,
+            "hash": "45071a5610031cda1a6573bd4848044fdbc65646dffedad0e70cb8f8576a60a1"
+        },
+        "index.js": "759831b78424e112b1e3d2d9801d14b93d603b70e9e38953868fc54ef92876ff",
+        "module.json": "70a5c547f2406db52a90d0b854fc61389c715e18c19426f06080b8cb9f787b3f",
+        "skills.json": "78f521d4ad0588d9cc7407a6e3f07b198defe7d42f44c88fcc0762f857702139"
+    }
+}

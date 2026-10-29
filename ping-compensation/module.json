@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": true,
+    "name": "ping-compensation",
+    "author": "Kourinn",
+    "description": "Gives you fake attack speed to eliminate ping tax between skills.",
+    "version": "1.0.0-115.1",
+    "options": {
+        "cliName": "PC",
+        "guiName": "Ping Compensation (Classic)"
+    },
+    "supportUrl": "https://github.com/EricBanker12/Ping-Compensation-Classic/issues",
+    "keywords": ["network"],
+    "protocol": "115.02 (387463)",
+    "port115": "Ping-Compensation-Classic (Kourinn) on the 115 toolbox: hook versions pinned, BigInt durations, projectileSpeed; stays passive next to osto-pr, see README-115.md"
+}

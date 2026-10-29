@@ -61,6 +61,12 @@ class KeybindSaver {
             if(acceptServer > 0 && !fake) {
                 acceptServer--;
                 let data = getJsonData(settingsPath);
+                // OSTO: the server keeps settings per profile (Threads of Time), so only
+                // restore when it sent none; otherwise its copy is the current one
+                if(payload.length >= 8 && payload.readUInt16LE(6) > 0) {
+                    saveJsonData(settingsPath, Object.assign({}, data || {}, { [key]: getPacketInfo(payload) }));
+                    return;
+                }
                 if(data && data[key]) {
                     let newPayload = Buffer.from(`${data[key].length}${getPacketInfo(payload).opcode}${data[key].payload}`, 'hex');
                     if(newPayload.toString() === payload.toString()) return true;
