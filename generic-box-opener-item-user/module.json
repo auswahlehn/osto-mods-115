@@ -1,0 +1,13 @@
+{
+    "name": "generic-box-opener-item-user",
+    "author": "Owyn",
+    "description": "Mass-Opens boxes",
+    "options": {
+        "cliName": "Box",
+        "guiName": "Generic Box Opener & Item user"
+    },
+    "protocol": "115.02 (387463)",
+    "servers": [
+        "https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/generic-box-opener-item-user/"
+    ]
+}

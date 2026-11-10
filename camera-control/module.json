@@ -1,0 +1,15 @@
+{
+    "name": "camera-control",
+    "author": "Caali",
+    "description": "Configure or disable camera shaking effects. Change camera FOV (field of view) and distance. Settings accessible by typing `/toolbox camera` in chat.",
+    "version": "1.0",
+    "options": {
+        "cliName": "Camera Control",
+        "guiName": "Camera Control",
+        "settingsVersion": 2,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/camera-control/"],
+    "conflicts": ["shaker"]
+}

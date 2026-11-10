@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "translate-chat",
+    "author": "Prav",
+    "version": "5/1/2022",
+    "description": "Translates incoming and outgoing messages to another language using Google Translate.",
+    "options": {
+        "niceName": "translate-chat",
+        "settingsVersion": 2,
+        "settingsFile": "config.json",
+        "settingsMigrator": "src/setting_migration.js"
+    },
+    "protocol": "115.02 (387463)",
+    "servers": ["https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/translate-chat/"]
+}

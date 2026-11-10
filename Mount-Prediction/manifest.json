@@ -1,0 +1,11 @@
+{
+    "files": {
+        "README.md": "46ca1365371d7c19899d563e45ab93f00b7c9db8618f58953f19220bf545c34b",
+        "config.json": {
+            "overwrite": false,
+            "hash": "a2eb64a0c735e185203e2c4356d4df771a9c0ccca0ad654cb119cc8d891bb997"
+        },
+        "index.js": "91287f747de5587877d906efde73cd04a89a9f20084148c4b6ffb28b644d8862",
+        "module.json": "090e2342313ced8e25ffa81fa7da062f070583598a186ffb0ebe22bd60c16669"
+    }
+}

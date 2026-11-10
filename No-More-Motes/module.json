@@ -1,0 +1,16 @@
+{
+	"disableAutoUpdate": false,
+    "name": "No-More-Motes",
+    "author": "Snug",
+    "description": "Disables the spawning of motes to help on fps when mass farming iod(extra toggle to disable mystics motes)",
+	"options": {
+		"guiName": "No-More-Motes",
+		"niceName": "nmm",
+		"settingsVersion": 1,
+        "settingsFile": "settings.json",
+        "settingsMigrator": "settings_generator.js"
+	},
+    "version": "1.0",
+	"servers": ["https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/No-More-Motes/"],
+	"supportUrl": "https://github.com/Snugglez/No-More-Motes/issues"
+}

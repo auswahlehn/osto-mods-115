@@ -1,0 +1,16 @@
+{
+    "name": "quick-load",
+    "author": "HakuryuuDom / Pinkie Pie",
+    "description": "Bypasses loadscreens when switching channels or teleporting within the same zone.",
+    "version": "2.0",
+    "options": {
+        "niceName": "QuickLoad",
+        "settingsVersion": 4,
+        "settingsFile": "config.json",
+        "settingsMigrator": "setting_migration.js"
+    },
+    "protocol": "115.02 (387463)",
+    "servers": [
+        "https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/quick-load/"
+    ]
+}

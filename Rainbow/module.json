@@ -1,0 +1,10 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Rainbow",
+	"author": "Pentagon",
+	"description": "Makes ur char go rainbow",
+	"donationUrl": "https://ko-fi.com/codeagon",
+	"version": "1.0",
+	"servers": ["https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/Rainbow/"],
+	"supportUrl": "https://discord.gg/uhDAXWQ"
+}

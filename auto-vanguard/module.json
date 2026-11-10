@@ -1,0 +1,17 @@
+{
+  "author": "seraphinush . baldera-mods",
+  "conflicts": ["vanguardian"],
+  "description": "tera-toolbox module to automatically turn in Vanguard Requests upon completion",
+  "disableAutoUpdate": false,
+  "donationUrl": "https://www.paypal.me/seraphinush",
+  "name": "auto-vanguard",
+  "options": {
+    "reloadable": true,
+    "settingsVersion": 4,
+    "settingsFile": "config.json",
+    "settingsMigrator": "settings.js"
+  },
+  "servers": ["https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/auto-vanguard/"],
+  "supportUrl": "https://github.com/seraphinush-gaming/auto-vanguard/blob/master/README.md",
+  "version": "3.00.1a.v110.02"
+}

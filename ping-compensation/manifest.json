@@ -1,0 +1,13 @@
+{
+    "files": {
+        "README.md": "d3ae28000bf022f60910c6fe53bd975904f27c7e49a77f429e298be1f4d84e31",
+        "abnormals.json": "2bf55385f6d7c5684368908484073fc562afa83fcd1a81056e4320a2ac2c3956",
+        "config.json": {
+            "overwrite": false,
+            "hash": "45071a5610031cda1a6573bd4848044fdbc65646dffedad0e70cb8f8576a60a1"
+        },
+        "index.js": "12bee68832cca33e3039c0bfec997f50a17dc82d7cee795a9e096db87afcf9fe",
+        "module.json": "2c201e1bb4e2b32536def7262c10e091982d5a71a5ba969f4e4d83270b09921c",
+        "skills.json": "78f521d4ad0588d9cc7407a6e3f07b198defe7d42f44c88fcc0762f857702139"
+    }
+}

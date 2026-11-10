@@ -1,0 +1,12 @@
+{
+    "name": "OSTOAerogasm",
+    "author": "NMods & Laxus",
+    "description": "Modified Aerogasm for Old School Tera Online.",
+    "protocol": "115.02 (387463)",
+    "conflicts": [
+        "dynamic-day"
+    ],
+    "servers": [
+        "https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/OSTOAerogasm/"
+    ]
+}

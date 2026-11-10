@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "no-more-delayed-buffs",
+    "options": {
+        "cliName": "NMDB",
+        "guiName": "NoMoreDelayedBuffs"
+    },
+    "author": "SaltyMonkey",
+    "description": "Fixing issue in x64 Tera Online client when in UI you can't see some buffs updates in real time",
+    "servers": ["https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/no-more-delayed-buffs/"],
+    "supportUrl": "https://github.com/SaltyMonkey/no-more-delayed-buffs/issues"
+}

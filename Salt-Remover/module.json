@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Salt-Remover",
+	"author": "SaltyMonkey",
+	"description": "Removing useless messages from your screen caused by salt-events",
+    "options": {
+        "cliName": "salt",
+        "niceName": "Salt Remover"
+    },
+    "servers": ["https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/Salt-Remover/"],
+    "supportUrl": "https://github.com/SaltyMonkey/Salt-remover/issues"
+}
