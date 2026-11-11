@@ -28,5 +28,6 @@ Tested mirrors of TERA Toolbox mods for the Old School TERA 64-bit client. Insta
 | [generic-box-opener-item-user](generic-box-opener-item-user/) | Owyn | [tera-private-mods/generic-box-opener-item-user](https://github.com/tera-private-mods/generic-box-opener-item-user) |
 | [ping-compensation](ping-compensation/) | Kourinn | [EricBanker12/Ping-Compensation-Classic](https://github.com/EricBanker12/Ping-Compensation-Classic) |
 | [translate-chat](translate-chat/) | Prav | [hsdn/translate-chat](https://github.com/hsdn/translate-chat) |
+| [auto-loot](auto-loot/) | tera-private-mods | [tera-private-mods/auto-loot](https://github.com/tera-private-mods/auto-loot) |
 
 Credits: all mods are the original authors' work; original READMEs and licenses are kept. Authors can open an issue to have a mod removed.

@@ -1,0 +1,17 @@
+{
+    "files": {
+        "README.md": "070e56caa67c73ff1661b7b8746f4dd6122886e39518d283e5828f28e8316f92",
+        "config.js": "86510f0db991599b66c83c84a222eda59bd1a250a259aa03a9b2e5e26190c9e8",
+        "index.js": "f1c093b31a91a4d81e82393adf35d686ce9135161bfc7432cd57d57f817a804b",
+        "module.json": "077a927ee39189a606697389260269230632a57e3e0d04f1328c94b2350c83b7"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "C_TRY_LOOT_DROPITEM": 4,
+        "S_DESPAWN_DROPITEM": 4,
+        "S_RETURN_TO_LOBBY": 1,
+        "S_SPAWN_DROPITEM": 9,
+        "S_SPAWN_ME": 3,
+        "S_SYSTEM_MESSAGE": 1
+    }
+}

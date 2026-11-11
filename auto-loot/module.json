@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": false,
+    "servers": ["https://raw.githubusercontent.com/auswahlehn/osto-mods-115/master/auto-loot/"],
+    "options": {
+        "niceName": "Auto Loot"
+    },
+    "name": "auto-loot",
+    "description": "Auto loot module.",
+    "protocol": "115.02 (387463)"
+}
