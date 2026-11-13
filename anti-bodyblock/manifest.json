@@ -1,0 +1,12 @@
+{
+    "files": {
+        "README.md": "ecab76e34142e96c9d7a7734da7057a52f62a6a83350eadcbf8c688c5ccc266d",
+        "index.js": "7b0259c7a19f41b268723cbefa2da0b31dd3bcd839a661a322fd4daf0ae14bc3",
+        "module.json": "76be4e9cd5aaf0e70efff09c5d8b58349177c00654294cc1b64605d06b4e5551"
+    },
+    "defs": {
+        "S_LEAVE_PARTY": 1,
+        "S_PARTY_INFO": 2,
+        "S_PARTY_MEMBER_LIST": 9
+    }
+}
